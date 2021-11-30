@@ -12,6 +12,7 @@ b<-c(1,4,5)
 b
 3+3
 3
+4
 @
 yo no quiero generar coflicto en git
 quiero trabajar ordenado
