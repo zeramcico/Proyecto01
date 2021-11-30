@@ -9,6 +9,9 @@ Hola mundo aqui de nuevo con git
 a<-c(1,2,3)
 a
 @
-generando  un conflicto en git
+
+yo no quiero generar coflicto en git
+quiero trabajar ordenado
+>>>>>>> pruebas1
 
 \end{document}
