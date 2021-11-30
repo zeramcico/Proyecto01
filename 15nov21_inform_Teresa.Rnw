@@ -11,6 +11,7 @@ a
 
 8*8
 @
-
+yo no quiero generar coflicto en git
+quiero trabajar ordenado
 
 \end{document}
