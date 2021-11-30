@@ -8,8 +8,9 @@ Hola mundo aqui de nuevo con git
 2+2
 a<-c(1,2,3)
 a
-
-8*8
+b<-c(1,4,5)
+b
+3+3
 @
 yo no quiero generar coflicto en git
 quiero trabajar ordenado
